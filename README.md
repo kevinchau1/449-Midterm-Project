@@ -3,7 +3,7 @@
 ## Team Information
 
 - Joshua Lopez - CWID: 885522771
-- [Add Name] - CWID: [Add CWID]
+- Kevin Chau - CWID: 885692368
 - [Add Name] - CWID: [Add CWID]
 
 ## Project Overview
