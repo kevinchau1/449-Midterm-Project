@@ -19,7 +19,7 @@ public class Booking {
     @Column(name = "booking_id")
     private Long bookingId;
 
-    @Column(name = "booking_reference", nullable = false, unique = true)
+    @Column(name = "booking_reference", unique = true)
     private String bookingReference;
 
     @Column(name = "booking_date", nullable = false)
