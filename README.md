@@ -4,7 +4,7 @@
 
 - Joshua Lopez - CWID: 885522771
 - Kevin Chau - CWID: 885692368
-- [Add Name] - CWID: [Add CWID]
+- Ian Akubu - CWID: 885815019
 
 ## Project Overview
 
