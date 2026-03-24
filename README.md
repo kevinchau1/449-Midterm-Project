@@ -85,4 +85,4 @@ See `screenshots/` folder.
 
 ## Demo Video
 
-**YouTube URL**: [Add your unlisted YouTube video URL here]
+**YouTube URL**: https://www.youtube.com/watch?v=DAv9G1Gmoio
